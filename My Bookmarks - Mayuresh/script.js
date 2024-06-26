@@ -1,0 +1,1 @@
+alert("Welcome to Mayuresh Sawant's Bookmarks")
